@@ -1,2 +1,2 @@
 # Fundamentals-of-Python-Course
-Fall 2022 - Python 
+Fall 2022 - Python
