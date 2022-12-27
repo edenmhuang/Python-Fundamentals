@@ -1,4 +1,4 @@
 # Fundamentals-of-Python-Course
 Fall 2022 - Python
-<h1> COool </h1>
+<h2> COool </h2>
 <p>hfeoihwo</p>
