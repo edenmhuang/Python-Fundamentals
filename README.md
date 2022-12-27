@@ -11,3 +11,18 @@ Fall 2022 - Python
   <li>Writing a Server Log Message</li>
 </ul>
 
+<h3> Lab 2 </h3>
+
+<h3> Lab 3 </h3>
+
+<h3> Lab 4 </h3>
+
+<h3> Lab 5 </h3>
+
+<h3> Lab 6 </h3>
+
+<h3> Lab 7 </h3>
+
+<h3> Lab 8 </h3>
+
+<h3> Lab 9/Final </h3>
