@@ -12,17 +12,58 @@ Fall 2022 - Python
 </ul>
 
 <h3> Lab 2 </h3>
+<ul>
+  <li>Import math library</li>
+  <li>Python String find()</li>
+  <li>More on String find() method — string.find(value, start, end)</li>
+  <li>Extracting Links</li>
+  <li>Python if… else: Condition and statements(if, elif, & else)</li>
+</ul>
 
 <h3> Lab 3 </h3>
+<ul>
+  <li>Recursive function</li>
+  <li>More Python functions</li>
+  <li>Python List index()</li>
+  <li>Python List remove()</li>
+</ul>
 
 <h3> Lab 4 </h3>
+<ul>
+  <li>Python function: prime factorization</li>
+  <li>More on Python index</li>
+  <li>Tuples</li>
+</ul>
 
 <h3> Lab 5 </h3>
+<ul>
+  <li>ord() and chr() functions in Python</li>
+  <li>Dictionary</li>
+</ul>
 
 <h3> Lab 6 </h3>
+<ul>
+  <li>Introduction to Search Index</li>
+  <li>Python String split() Method</li>
+</ul>
 
 <h3> Lab 7 </h3>
+<ul>
+  <li>More on Python functions, but more difficult</li>
+</ul>
 
 <h3> Lab 8 </h3>
+<ul>
+  <li>Count Unique Words on The Complete Works of William Shakespeare Project</li>
+  <li>re — Regular expression operations</li>
+  <li>collections — Container data types</li>
+  <li>Reading text file</li>
+</ul>
 
 <h3> Lab 9/Final </h3>
+<ul>
+  <li>More on Recursive functions and functions</li>
+</ul>
+
+
+
