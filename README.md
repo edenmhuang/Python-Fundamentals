@@ -1,5 +1,5 @@
 # Fundamentals-of-Python-Course
-Fall 2022 - Python
+Fall 2022 - Python<br>
 Lab 1
 Functions
 Assign and Modify Variables
