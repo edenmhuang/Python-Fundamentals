@@ -1,5 +1,8 @@
 # Fundamentals-of-Python-Course
 Fall 2022 - Python
+
+<h2>Think Python</h2>
+
 <h3> Lab 1 </h3>
 <ul>
   <li>Introduction of Python Functions</li>
