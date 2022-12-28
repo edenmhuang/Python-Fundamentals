@@ -1,5 +1,5 @@
 # Fundamentals-of-Python-Course
-Fall 2022 - Python
+Fall 2022 - Introduction to Python Programming
 
 <p>Think Python - How to Think Like a Computer Scientist - Version 2.0.17</p>
 
