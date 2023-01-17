@@ -5,7 +5,7 @@ Fall 2022 - Introduction to Python Programming - Professor Kayvan Momeni
 
 <h3> Course Projects </h3>
 <ul>
-  <li>Project 1: Webcrawler (Lists, Functions, Strings, Loops) </li>
+  <li>Fall 2022 Project 1: Webcrawler (Lists, Functions, Strings, Loops) </li>
   <li>Project 2: Lab 8 </li>
 </ul>
 
