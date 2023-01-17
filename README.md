@@ -6,7 +6,7 @@ Fall 2022 - Introduction to Python Programming - Professor Kayvan Momeni
 <h3> Course Projects </h3>
 <ul>
   <li>Fall 2022 Project 1: Webcrawler (Lists, Functions, Strings, Loops) </li>
-  <li>Project 2: Lab 8 </li>
+  <li>Project 2: Count Unique Words on The Complete Works of William Shakespeare Project (Lab 8) </li>
 </ul>
 
 <h3> Lab 1 </h3>
