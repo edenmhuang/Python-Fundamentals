@@ -3,6 +3,12 @@ Fall 2022 - Introduction to Python Programming - Professor Kayvan Momeni
 
 <p>Textbook: Think Python - How to Think Like a Computer Scientist - Version 2.0.17</p>
 
+<h3> Course Projects </h3>
+<ul>
+  <li>Project 1: Webcrawler (Lists, Functions, Strings, Loops) </li>
+  <li>Project 2: Lab 8 </li>
+</ul>
+
 <h3> Lab 1 </h3>
 <ul>
   <li>Introduction of Python Functions</li>
